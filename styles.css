@@ -1,0 +1,65 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f9f4; 
+    color: #333333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #006d5b; 
+    padding: 20px;
+    color: #ffffff; 
+}
+
+header h1 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px; 
+    text-align: left;
+    margin: 0;
+}
+
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    color: #006d5b; 
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #00a676; 
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 30px; 
+    font-family: 'Ubuntu', sans-serif;
+    color: #007ea7; 
+    text-align: left;
+}
+
+h3 {
+    font-size: 25px; 
+    font-family: 'Ubuntu', sans-serif;
+    color: #52b788; 
+    text-align: left;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px; 
+    color: #555555; 
+}
+
+img {
+    margin: 20px 0;
+    width: 300px;
+    height: auto; 
+    border: 2px solid #52b788; 
+    border-radius: 10px; 
+}
+
